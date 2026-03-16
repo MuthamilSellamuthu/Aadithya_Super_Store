@@ -65,6 +65,21 @@ A professional, full-stack e-commerce application for **Aadithya Super Store**, 
 - `Photos/`: Local source of high-quality product images.
 - `backend/data/`: Seeder scripts and initial datasets.
 
+## 🌐 Deployment & Configuration
+
+For a live deployment, you need to set the following environment variables:
+
+### Backend (.env on Render/Railway)
+- `MONGO_URI`: Your MongoDB Atlas connection string.
+- `JWT_SECRET`: A secure random string for authentication.
+- `PORT`: Usually set to `5000` or provided by the host.
+
+### Frontend (.env on Vercel/Netlify)
+- `VITE_API_URL`: The URL of your deployed backend (e.g., `https://api.aadithyastore.com/api`).
+- `VITE_RAZORPAY_KEY_ID`: Your production Razorpay Key.
+
+For full step-by-step instructions, see the [Deployment Guide](file:///C:/Users/USER/.gemini/antigravity/brain/1d009bd1-7665-494d-89e1-fe00c6ffa31b/deployment_guide.md).
+
 ## 📞 Contact Details
 
 - **Store Address**: 1/17C, Akkaranam periyapalayam, Mudhalipalayam Sidco, Trippur - 641 60
