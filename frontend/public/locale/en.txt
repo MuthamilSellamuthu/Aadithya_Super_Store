@@ -1,0 +1,75 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_EBFB5780_F2FC_FFA2_41E1_3DA606F12756.text = Bathroom and House cleaners \
+
+HotspotPanoramaOverlayTextImage_E97EF69D_F2F7_91DD_41E0_81977753E4CC.text = Billing Counter \
+
+HotspotPanoramaOverlayTextImage_EE1B7E53_F20B_90A6_41E7_5F8111695B36.text = Chocolates
+HotspotPanoramaOverlayTextImage_E8A30457_F20C_90AE_41DF_EDD6E0AC9635.text = Detergent \
+
+HotspotPanoramaOverlayTextImage_EB5EDF17_F20D_90AD_41C9_9B75627AF7A1.text = Go Inside
+HotspotPanoramaOverlayTextImage_EB2A4140_F20C_B0A2_41ED_9A641B711D02.text = House Hold products \
+
+HotspotPanoramaOverlayTextImage_EBC12D01_F2F5_90A2_41C7_2CA44CAF46D9.text = Rice
+HotspotPanoramaOverlayTextImage_EB0B8D6E_F20D_937E_41CA_CC841EA2F2DA.text = Rice
+HotspotPanoramaOverlayTextImage_EB791256_F2F4_90AF_41E1_3C52864278D1.text = Sancks \
+
+HotspotPanoramaOverlayTextImage_EBC423D0_F2F5_97A2_41E5_BFE91E54AADA.text = Shampoo \
+
+HotspotPanoramaOverlayTextImage_E84A4F0B_F2F4_90A5_41E7_0500156DCE72.text = Tooth Brush
+HotspotPanoramaOverlayTextImage_EB922949_F2F7_90A5_41E8_F5A68E9BFB1B.text = Washing Liquid \
+
+HotspotPanoramaOverlayTextImage_E887AAFC_F2FC_9163_41B9_B54162007FA5.text = Washing Liquids \
+
+HotspotPanoramaOverlayTextImage_EE1B30E9_F2FC_9165_41EB_643A78EB774D.text = Washing Powder \
+
+
+## Media
+
+### Image
+imlevel_E86C7D20_F214_90E4_41E9_FD3646F89826.url = media/panorama_F96E7A79_F214_7165_41E6_2318A4CB425E_HS_66a9l49h_en.webp
+imlevel_E862ACB7_F214_91ED_41E5_93B5CAD0B5A6.url = media/panorama_F96E7A79_F214_7165_41E6_2318A4CB425E_HS_7lbstwlp_en.webp
+imlevel_E86C6CF1_F214_9165_41D8_E12AE0AC3FE4.url = media/panorama_F96E7A79_F214_7165_41E6_2318A4CB425E_HS_qmh8eunu_en.webp
+imlevel_E86ECD49_F214_90A5_41E1_D61657859D3E.url = media/panorama_F96E7A79_F214_7165_41E6_2318A4CB425E_HS_reht6al0_en.webp
+imlevel_E8606C85_F214_91A2_41CC_56EBDAD7A374.url = media/panorama_F96E7A79_F214_7165_41E6_2318A4CB425E_HS_wlwldjcu_en.webp
+imlevel_E8EA4A53_F214_90A5_41E3_7120C6B430A9.url = media/panorama_F96EFABE_F215_91DE_41E4_BD61CBCF4FC6_HS_0qeh3xj1_en.webp
+imlevel_E85A4AE8_F214_9163_41E2_F8C91DD3CF0A.url = media/panorama_F96EFABE_F215_91DE_41E4_BD61CBCF4FC6_HS_cgmdo7jb_en.webp
+imlevel_E81FDA86_F214_91AF_41CE_ABCDCA7CBC77.url = media/panorama_F96EFABE_F215_91DE_41E4_BD61CBCF4FC6_HS_f9l7jani_en.webp
+imlevel_E8651B4E_F214_90BF_4177_F2464CB5AA64.url = media/panorama_F96EFABE_F215_91DE_41E4_BD61CBCF4FC6_HS_ykmnr0kl_en.webp
+imlevel_E869CD7D_F214_935D_41E4_E192E53A1EF9.url = media/panorama_F96F708D_F214_91BD_41D0_89D74DA46687_HS_gr7hlabl_en.webp
+imlevel_E8665C24_F214_90E3_41C2_913E92D5D2CC.url = media/panorama_F96F843A_F214_70E7_41E9_AFB5119F4CB1_HS_04z10uut_en.webp
+imlevel_E8641B8E_F214_97BF_4188_E5AA70042B15.url = media/panorama_F96F843A_F214_70E7_41E9_AFB5119F4CB1_HS_5j12tv58_en.webp
+imlevel_E8675BC2_F214_97A7_41E1_EB37E947BFF1.url = media/panorama_F96F843A_F214_70E7_41E9_AFB5119F4CB1_HS_n3jvgrbs_en.webp
+imlevel_E8EB1A30_F214_90E3_41EA_220C9A564F28.url = media/panorama_FECFF48E_F215_91BE_41D2_9B6A5E919E60_HS_rrl216jd_en.webp
+imlevel_EA9EEA71_F214_B165_41C8_5C3B9FCBF5D9.url = media/popup_EB1C0D66_F214_936E_41CF_6AE603DE9D2D_en_0_0.webp
+imlevel_EA9E9A71_F214_B165_41CE_17950A3F4461.url = media/popup_EB1C0D66_F214_936E_41CF_6AE603DE9D2D_en_0_1.webp
+imlevel_EA9E8A71_F214_B165_41C5_700D621B4C4E.url = media/popup_EB1C0D66_F214_936E_41CF_6AE603DE9D2D_en_0_2.webp
+
+### Popup Image
+
+### Title
+panorama_FECFF48E_F215_91BE_41D2_9B6A5E919E60.label = 1
+panorama_F96E8EB5_F214_F1ED_41D9_31B1042DC797.label = 10
+panorama_F96EFABE_F215_91DE_41E4_BD61CBCF4FC6.label = 2
+panorama_F96F843A_F214_70E7_41E9_AFB5119F4CB1.label = 3-after_white_b1
+panorama_F96E7A79_F214_7165_41E6_2318A4CB425E.label = 3-after_white_b2
+panorama_F96F708D_F214_91BD_41D0_89D74DA46687.label = 3-after_white_b3
+panorama_F96EC7A1_F214_9FE5_41ED_DA5F5A8E54C7.label = 3-after_white_b4
+panorama_F96F6E03_F214_90A5_41EE_1D1FE95DF579.label = 3-fridge
+panorama_F96EC4DD_F214_B15D_41E0_500327E627C0.label = 4-fridge-left
+panorama_F96E9AE6_F214_B16F_41CB_44B7B2A412A7.label = 5-fridge-right
+panorama_F96E9169_F214_9362_41E8_9FFD23B673DB.label = 6
+panorama_F96EA754_F214_90A3_41DA_0256D3F203C9.label = 7
+panorama_F96ECD93_F214_93A4_41D7_40D027636F53.label = 8
+panorama_F96EA361_F214_F765_41DC_88C034ECCF8F.label = 9_1
+panorama_F96E88FA_F214_F167_41C9_1F4ED8EC8850.label = 9_2after
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
